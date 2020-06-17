@@ -1,0 +1,11 @@
+Below is a qiuck description of what each of the files included in this repository does:
+
+Final_Full: Includes the code for the whole pre-processing process for the non-augmented data-set.
+Final_Split: Includes the code for the whole of the pre-processinf for the augmented data-set.
+
+Logistic Regression Brier Score Optimisation: Includes the optimisations made to the logistic regression
+MLP Brier Score Optimisation: Includes the optimiations made to the Multi Layer Perceptron model 
+Random Forest Brier Score Optimisation: Includes the optimisations made to the Random Forest model as well as the model interpretability analysis
+XGBoost Brier Score Optimisation: Includes the optimisations made to the XGBoost model
+
+amplitude-bigquery.py: Includes the code to migrate data from amplitude to Google BigQuery
